@@ -1,0 +1,3 @@
+# scripted pipeline
+
+#Declarative pipeline
